@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora",
+  "description": "Calculadora universal para cualquier cálculo matemático: científica, cálculo diferencial e integral, álgebra, matrices, estadística, programador, graficador e IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
